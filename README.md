@@ -200,5 +200,30 @@ Sitemap (sitemap.html)
 - *E-commerce Website Development for KawanKita Bicycle Shop*. (2023). Garuda - Garba Rujukan Digital. Available at: https://garuda.kemdiktisaintek.go.id/documents/detail/3669513 (Accessed: 14 August 2026).
 - Jadav, A.D. (2003). *Designing Usable Web Interfaces*. Upper Saddle River, NJ: Prentice Hall.
 - *The Multiple Perspectives Project Definition Method*. (2001). Seventh Americas Conference on Information Systems.
+- Adoption, S. A. B. M. O. B. b. $. M. D. a. R. E.-B., 2026. Nextdigm. [Online] 
+Available at: https://www.nexdigm.com/market-research/insights/blog/south-africa-bicycle-industry/
+[Accessed 13 September 2026].
+Hub, B., 2026. Quater Turn Report: Bike Hub Q1. [Online] 
+Available at: https://bikehub.co.za/news/quarter-turn-report-bike-hub-q1-2026/
+[Accessed 13 September 2026].
+Lab, C., 2026. Buy Mountain Bikes /Road Bikes/ Best Bicycle Shop Online.. [Online] 
+Available at: https://www.cyclelab.com/
+[Accessed 13 September 2026].
+Nextdigm, 2026. South Africa Bicycle. [Online] 
+Available at: https://www.nexdigm.com/market-research/insights/blog/south-africa-bicycle-industry/
+[Accessed 13 September 2026].
+Nextdigm, 2026. South Africa Bicycle Market Outlook Backed by $471.80 Million Demand and Rising E-Bike Adoption. [Online] 
+Available at: https://www.nexdigm.com/market-research/insights/blog/south-africa-bicycle-industry/
+[Accessed 13 September 2026].
+Outlook, S. A. B. M. S. &., 2026. Grand View Research. [Online] 
+Available at: https://www.grandviewresearch.com/horizon/outlook/bicycle-market/south-africa
+[Accessed 13 September 2026].
+Payflex, 2024. A Guide to South Africa's Online Cycling Shops.. [Online] 
+Available at: https://payflex.co.za/a-guide-to-south-africas-online-cycling-shops-payflex/
+[Accessed 13 September 2024].
+Research, G. V., 2026. South Africa Bicycle Market Size and Outlook. [Online] 
+Available at: https://www.grandviewresearch.com/horizon/outlook/bicycle-market/south-africa
+[Accessed 13 September 2026].
+
 
 
