@@ -181,11 +181,12 @@ Sitemap (sitemap.html)
 - Resized product images to fit cards
 - Centred buttons on services page
 - Added sitemap page
-- **Wireframes added**: Created visual wireframes for all the 7 pages and added them to the proposal document.
-- **CSS Implementation**: An external style.css file was created and linked to all the 7 HTML pages
-- **Responsive Design**: Added media queries to css to ensure the layout and images adapt to tablets, mobiles, and desktop screen sizes.
-- **Content Research expanded on Proposal** 2: Added more detailed research and references to the proposal to address the feedback.
-- **Github Setup**: Initialised Git Repository, created the README, and pushed all HTML files to GitHub.
+**14 September 2026**
+- Wireframes added: Created visual wireframes for all the 7 pages and added them to the proposal document.
+- CSS Implementation: An external style.css file was created and linked to all the 7 HTML pages
+- Responsive Design: Added media queries to css to ensure the layout and images adapt to tablets, mobiles, and desktop screen sizes.
+- Content Research expanded on Proposal 2: Added more detailed research and references to the proposal to address the feedback.
+- Github Setup: Initialised Git Repository, created the README, and pushed all HTML files to GitHub.
 
 
 ## References
