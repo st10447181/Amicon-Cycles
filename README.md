@@ -163,13 +163,9 @@ Sitemap (sitemap.html)
 
 ## Changelog
 
-### Version 1.0.0 (August 2026)
-
-**Initial Release**
 - Created all 7 HTML pages
 - Implemented responsive design
 - Added navigation system with active page highlighting
-- Integrated Font Awesome icons
 - Implemented consistent branding (grey, white, blue, orange)
 - Added Google Maps integration
 - Created enquiry and contact forms
@@ -180,21 +176,22 @@ Sitemap (sitemap.html)
 
 **Changes Made:**
 - Fixed navigation from vertical to horizontal layout
-- Added icons to navigation menu
 - Centred hero banners on all pages
 - Added background colours to navigation and footer
 - Resized product images to fit cards
 - Centred buttons on services page
 - Added sitemap page
+- **Wireframes added**: Created visual wireframes for all the 7 pages and added them to the proposal document.
+- **CSS Implementation**: An external style.css file was created and linked to all the 7 HTML pages
+- **Responsive Design**: Added media queries to css to ensure the layout and images adapt to tablets, mobiles, and desktop screen sizes.
 
----
 
 ## References
 
-### Websites Used as Templates
+## Websites Used as Templates
 - Detour Bike Shop. (2026). Available at: https://detourcycles.co.za/ (Accessed: 14 August 2026).
 
-### Academic and Technical Sources
+## References
 - BikeStore. (2025). *Full-Featured Bike Shop Application* [Source code]. Available at: https://github.com/SM-Noushan/bike-store-client (Accessed: 14 August 2026).
 - CycleBay. (2025). *Bike Shop - Business to Customer (B2C) E-commerce Full Stack Django-based Web Application* [Source code]. Available at: https://github.com/pavlo-myskov/cyclebay (Accessed: 14 August 2026).
 - *CycleZen: A Digital Transformation in Bicycle Retail Management*. (2025). Daffodil International University. Available at: http://dspace.daffodilvarsity.edu.bd:8080/handle/123456789/16992 (Accessed: 14 August 2026).
